@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+h1 {
+    margin-left: 600px;
+    background-color: burlywood;
+    border-radius: 10px 20px 10px 20px;
+    border: 10px 20px 10px 20px;
+}
+h6 {
+    margin-left: 600px;
+}
+h2 {
+    background-color: lightsteelblue;
+    border-radius: 10px 20px 10px 20px;
+}
+h3 {
+    margin-left: 500px;
+    color: darkblue;
+}
+h4 {
+    margin-left: 350px;
+    font: Lobster;
+    color: burlywood;
+    background-color: cadetblue;
+}
+ol {
+    margin-left: 200px;
+}
